@@ -1,3 +1,5 @@
 venv
 app/__pycache__
+app/controllers/__pycache__
 __pycache__
+.idea
